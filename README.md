@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**MariaMartinT/MariaMartinT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.S. in Applied Data Analytics** (Boston University) + **B.S. in Chemical Engineering** (Universidad de los Andes)
 
-Here are some ideas to get you started:
+I'm a data professional who pairs an engineer's rigor with strong analytics and AI skills. I like taking messy, real-world data and turning it into something people can actually use to make well informed decisions. My engineering background taught me to care deeply about accuracy, because a wrong number can have real consequences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **What I work with**
+- **Languages:** Python, SQL, R
+- **Data & ML:** pandas, NumPy, scikit-learn, PyTorch, ETL pipelines, data warehousing, statistical modeling
+- **Visualization:** Tableau, Excel, matplotlib, seaborn, ggplot2
+- **Tools:** Git, Jupyter, Google Colab
+
+🌎 Bilingual in English and Spanish
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/maria-martin-t)
+
+---
+*Currently open to Data Analyst, Data Engineer, and Data Scientist roles.*
