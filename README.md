@@ -7,12 +7,9 @@ I'm a data professional who pairs an engineer's rigor with strong analytics and 
 🔧 **What I work with**
 - **Languages:** Python, SQL, R
 - **Data & ML:** pandas, NumPy, scikit-learn, PyTorch, ETL pipelines, data warehousing, statistical modeling
-- **Visualization:** Tableau, Excel, matplotlib, seaborn, ggplot2
+- **Visualization:** Power BI, Excel, matplotlib, seaborn
 - **Tools:** Git, Jupyter, Google Colab
 
 🌎 Bilingual in English and Spanish
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/maria-martin-t)
-
----
-*Currently open to Data Analyst, Data Engineer, and Data Scientist roles.*
